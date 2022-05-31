@@ -1,1 +1,2 @@
 Jelle gaat leren werken met Git.
+Git lijkt mij heel interessant.
